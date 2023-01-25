@@ -1,0 +1,122 @@
+[
+    {
+      "employer": "Coca-Cola",
+      "mask": 12345,
+      "firstName": "Clark",
+      "lastName": "Kent",
+      "amountExpected": 80,
+      "username": "131296"
+    },
+    {
+      "employer": "Pepsi",
+      "mask": "X8080",
+      "firstName": "Bruce",
+      "lastName": "Wayne",
+      "amountExpected": 125,
+      "username": "eb1d9b"
+    },
+    {
+      "employer": "Pepsi",
+      "mask": "X8081",
+      "firstName": "John",
+      "lastName": "Heisman",
+      "amountExpected": 90,
+      "username": "ce1ec1"
+    },
+    {
+      "employer": "Home Depot",
+      "mask": 23456,
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "amountExpected": 60,
+      "username": "80d67c"
+    },
+    {
+      "employer": "Home Depot",
+      "mask": 54321,
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "amountExpected": 60,
+      "username": "08d48c"
+    },
+    {
+      "employer": "Georgia Pacific",
+      "mask": 3456,
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "amountExpected": 50,
+      "username": "0cb67f"
+    },
+    {
+      "employer": "Georgia Pacific",
+      "mask": 9876,
+      "firstName": "John",
+      "lastName": "Doe",
+      "amountExpected": 80,
+      "username": "68dbd5"
+    },
+    {
+      "employer": "Chick-fil-a",
+      "mask": 12345,
+      "firstName": "Truett",
+      "lastName": "Cathy",
+      "amountExpected": 82.5,
+      "username": "5ac1f1"
+    },
+    {
+      "employer": "Zaxbys",
+      "mask": "E0001",
+      "firstName": "John",
+      "lastName": "Smith",
+      "amountExpected": 80,
+      "username": "c167a2"
+    },
+    {
+      "employer": "Zaxbys",
+      "mask": "E0002",
+      "firstName": "Jane",
+      "lastName": "Andrews",
+      "amountExpected": 85,
+      "username": "61b409"
+    },
+    {
+      "employer": "Zaxbys",
+      "mask": "E0003",
+      "firstName": "Walter",
+      "lastName": "Harris",
+      "amountExpected": 45,
+      "username": "681702"
+    },
+    {
+      "employer": "Zaxbys",
+      "mask": "E0004",
+      "firstName": "Cathy",
+      "lastName": "Johnson",
+      "amountExpected": 60,
+      "username": "ee24ac"
+    },
+    {
+      "employer": "McDonald's",
+      "mask": "MD01",
+      "firstName": "Ronald",
+      "lastName": "McDonald",
+      "amountExpected": 70,
+      "username": "acf36e"
+    },
+    {
+      "employer": "McDonald's",
+      "mask": "MD02",
+      "firstName": "Grimace",
+      "lastName": "Jones",
+      "amountExpected": 70,
+      "username": "b20a20"
+    },
+    {
+      "employer": "McDonald's",
+      "mask": "MD02",
+      "firstName": "The",
+      "lastName": "Hamburglar",
+      "amountExpected": 70,
+      "username": "fb9073"
+    }
+  ]
